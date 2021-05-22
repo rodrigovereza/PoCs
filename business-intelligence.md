@@ -1,9 +1,23 @@
-# *Business Intelligence*
+# Dashboard_Vogah_2.0
 
-#### Para acesso ao código ou resumo, basta clicar no título de cada item.
+#### Aluno: [Rodrigo Vereza Caldas](https://github.com/rodrigovereza).
+#### Orientador: [Professor Anderson Nascimento](https://github.com/insightds).
 
-## [BI-MASTER](https://ica.puc-rio.ai/bi-master)
+---
 
-- [Análise de Performance de Vendas e Identificação de Clientes Granus & Phinus Cosméticos](https://github.com/secretaria-ICA/Analise_de_Performance_de_Vendas_e_Identificacao_de_Clientes_Granus_Phinus_Cosmeticos):
-  - Aluno: [Leonardo Thome da Silva](https://github.com/leothome).
-  - Orientador: [Anderson Nascimento](https://github.com/insightds).
+Trabalho apresentado ao curso [BI MASTER](https://ica.puc-rio.ai/bi-master) como pré-requisito para conclusão de curso e obtenção de crédito na disciplina "Projetos de Sistemas Inteligentes de Apoio à Decisão".
+
+- [Link para o código](https://github.com/rodrigovereza/PROJ_BI_Master). 
+
+
+---
+
+### Resumo
+
+Realização de POC - Prova de Conceito, através da criação de dashboard de negócios para a empresa Vogah.
+
+Matrícula: 192.671.022
+
+Pontifícia Universidade Católica do Rio de Janeiro
+
+Curso de Pós Graduação *Business Intelligence Master*
